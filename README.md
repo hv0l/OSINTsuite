@@ -19,7 +19,7 @@ Some of the services indicated are unfortunately subject to payment, these will 
 - [Threat Intelligence](#threat-intelligence)
 - [Transportation](#transportation)
 - [EXIF Data](#exif-data)
-- [Automation&studi](#automation&study)
+- [Automation&study](#automation&study)
 
 
 ----
